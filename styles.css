@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    }
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: crimson;
+    }
+h3{
+    text-align: center;
+    font-size: 40px;
+    color: crimson;
+h4{
+    text-align: center;
+    font-size: 40px;
+    color: crimson;
+    }
+
+    p{ text-align: center;
+        font-size: 30px;
+        margin: 0%;
+    }
+    ul{
+        font-size: 20px;
+    }
+
+    ol{
+        font-size: 20px;
+        
+    }
+a{
+    margin: 10px;
+    color: black;
+    font-size: 20px;
+} 
+{}  
